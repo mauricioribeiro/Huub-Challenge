@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "brand_id": 1,
+      "customer_name": "José",
+      "reference": "#1492",
+      "order_date": "2021-01-10 14:49:08.346103",
+      "price_total": 120.00
+    },
+    {
+      "id": 2,
+      "brand_id": 1,
+      "customer_name": "António",
+      "reference": "#1491",
+      "order_date": "2021-01-21 14:39:08.346103",
+      "price_total": 52.00
+    },
+    {
+      "id": 3,
+      "brand_id": 2,
+      "customer_name": "Ventura",
+      "reference": "#1490",
+      "order_date": "2021-01-22 10:32:08.346103",
+      "price_total": 112.00
+    },
+    {
+      "id": 4,
+      "brand_id": 2,
+      "customer_name": "Maria",
+      "reference": "#1489",
+      "order_date": "2021-01-14 111:45:08.346103",
+      "price_total": 192.00
+    },
+    {
+      "id": 5,
+      "brand_id": 2,
+      "customer_name": "Marcelo",
+      "reference": "#1488",
+      "order_date": "2021-01-11 09:12:12.346103",
+      "price_total": 162.00
+    },
+    {
+      "id": 6,
+      "brand_id": 3,
+      "customer_name": "Teresa",
+      "reference": "#1487",
+      "order_date": "2021-01-12 08:45:11.346103",
+      "price_total": 152.00
+    },
+    {
+      "id": 7,
+      "brand_id": 4,
+      "customer_name": "Silva",
+      "reference": "#1486",
+      "order_date": "2021-01-09 17:10:00.346103",
+      "price_total": 122.00
+    },
+    {
+      "id": 8,
+      "brand_id": 4,
+      "customer_name": "Vasco",
+      "reference": "#1485",
+      "order_date": "2021-01-10 20:01:08.346103",
+      "price_total": 123.00
+    },
+    {
+      "id": 9,
+      "brand_id": 5,
+      "customer_name": "Gomes",
+      "reference": "188883_001",
+      "order_date": "2021-01-01 19:10:08.346103",
+      "price_total": 129.98
+    },
+    {
+      "id": 10,
+      "brand_id": 1,
+      "customer_name": "Jorge",
+      "reference": "188883",
+      "order_date": "2021-01-22 14:49:08.346103",
+      "price_total": 129.98
+    }
+  ]
+}
